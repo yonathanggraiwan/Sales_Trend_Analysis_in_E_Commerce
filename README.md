@@ -3,9 +3,9 @@
 ## Repository Outline
 ```
 - README(description).md | Overview of the project description.
-- P0M1_Yonathan_Anggraiwan.ipynb | This notebook containing the codes and explanation of the data processing steps using Python.
-- P0M1_Yonathan_Anggraiwan_dataset.csv | CSV dataset used for data analysis.
-- P0M1_Yonathan_Anggraiwan_dataset.xlsx | XLSX dataset used for visualization in Tableau dashboard.
+- Sales Trend Analysis in E-Commerce_Yonathan_Anggraiwan(English).ipynb | This notebook containing the codes and explanation of the data processing steps using Python.
+- Sales Trend Analysis in E-Commerce_Yonathan_Anggraiwan(Indonesia).ipynb | This notebook containing the codes and explanation of the data processing steps using Python.
+- Sales Trend Analysis in E-Commerce.csv | CSV dataset used for data analysis.
 ```
 
 ## Problem Background
