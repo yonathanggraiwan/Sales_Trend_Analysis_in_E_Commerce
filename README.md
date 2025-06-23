@@ -4,7 +4,6 @@
 ```
 - README(description).md | Overview of the project description.
 - Sales Trend Analysis in E-Commerce_Yonathan_Anggraiwan(English).ipynb | This notebook containing the codes and explanation of the data processing steps using Python.
-- Sales Trend Analysis in E-Commerce_Yonathan_Anggraiwan(Indonesia).ipynb | This notebook containing the codes and explanation of the data processing steps using Python.
 - Sales Trend Analysis in E-Commerce.csv | CSV dataset used for data analysis.
 ```
 
