@@ -23,7 +23,7 @@
 `The programming language used in this project is Python, with VSCode as the development tool. The libraries used include pandas, scipy, statistics, numpy, matplotlib, seaborn, plotly.express, and warnings. Data visualization is also presented using a Tableau dashboard.`
 
 ## Reference
-`The supporting link for the results of this project analysis can be found in the following project dashboard link: https://public.tableau.com/app/profile/yonathan.anggraiwan/viz/P0M1_Yonathan_Anggraiwan_Dashboard/SALESTRANSACTIONTRENDS.`
+`The supporting link for the results of this project analysis can be found in the following project dashboard link: https://public.tableau.com/views/Sales_Trend_Analysis_In_E-Commerce_Yonathan_Anggraiwan_Dashboard/SALESTRANSACTIONTRENDS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
 
 ---
 
