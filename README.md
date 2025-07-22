@@ -14,7 +14,7 @@
 `The output of my project this time is a visualization dashboard of the data analysis results.`
 
 ## Data
-`The data used in this project comes from Kaggle (https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data). This dataset contains e-commerce sales transaction trends, consisting of 3,900 rows and 17 columns. The data is considered 'clean' as there are no significant outliers and no missing values.`
+The data used in this project comes from [Kaggle](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data). This dataset contains e-commerce sales transaction trends, consisting of 3,900 rows and 17 columns. The data is considered 'clean' as there are no significant outliers and no missing values.
 
 ## Method
 `The data analysis methods used in this project are divided into two. The first is descriptive analysis, which applies descriptive statistical calculations, and the second is inferential analysis, which uses inferential statistical techniques. Finally, conclusions are drawn based on the results of these analyses.`
