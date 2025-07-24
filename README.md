@@ -23,7 +23,7 @@ The data used in this project comes from [Kaggle](https://www.kaggle.com/dataset
 `The programming language used in this project is Python, with VSCode as the development tool. The libraries used include pandas, scipy, statistics, numpy, matplotlib, seaborn, plotly.express, and warnings. Data visualization is also presented using a Tableau dashboard.`
 
 ## Reference
-The supporting link for the results of this project analysis can be found in the following [project dashboard link](https://public.tableau.com/views/Sales_Trend_Analysis_In_E-Commerce_Yonathan_Anggraiwan_Dashboard/SALESTRANSACTIONTRENDS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+The supporting link for the results of this project analysis can be found in the following [project dashboard link](https://public.tableau.com/app/profile/yonathan.anggraiwan/viz/Sales_Trend_Analysis_In_E-Commerce_Yonathan_Anggraiwan_Dashboard/SALESTRANSACTIONTRENDS?publish=yes)
 
 ---
 
@@ -31,4 +31,4 @@ The supporting link for the results of this project analysis can be found in the
 Contact Person:
 - [E-mail](yonathan.anggraiwan.work@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/yonathan-anggraiwan-work/)
-- [GitHub](https://github.com/yonathanggraiwan)
+- [Portfolio](https://www.datascienceportfol.io/yonathananggraiwanwo)
